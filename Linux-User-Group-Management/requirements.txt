@@ -1,0 +1,3 @@
+# Standard library components are used for core architecture.
+# Pytest is required for development execution and validation workflows.
+pytest==8.1.1
